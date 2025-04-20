@@ -1,1 +1,1 @@
-prints("PYCODE OUTPUT :- Varun Ravishankar Balbudhe")
+print("PYCODE OUTPUT :- Varun Ravishankar Balbudhe")
